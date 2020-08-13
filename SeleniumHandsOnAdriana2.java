@@ -18,7 +18,7 @@ public class SeleniumHandsOnAdriana2 {
        searchbox.sendKeys("Testing");
        searchbox.submit();
        driver.close();
-
+//comentario
 
     }
 }
